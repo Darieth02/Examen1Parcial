@@ -1,0 +1,5 @@
+* Darieth - Parrillero
+* Luisa - Cocinera
+* Juan - Cajero
+* Pedro - Cocinero
+* Alex - Gerente
