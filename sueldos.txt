@@ -1,0 +1,5 @@
+* Cocinero - $1200
+* Cajero - $1000
+* Gerente - $2000
+* Subgerente - $1500
+* Limpieza - $900
